@@ -48,6 +48,7 @@ I am interested in learning various aspects of Application Security Testing, Mob
 - Remote Installation, Deployment, Reconfiguration of product on Linux platform, configuring, monitoring and testing of email Servers for spectrum of clients.
 - Ensuring maximum Network and Server uptime.
 - Interacted and provided Web Training to customers of company across India regarding Mithi Software       Email Product.
+
 **********************************************************************************************************
 
 **GLOBAL CERTIFICATION INFORMATION :**
@@ -55,6 +56,7 @@ I am interested in learning various aspects of Application Security Testing, Mob
 - Certification: Red Hat Certified Engineer (RHEL 6)
 - Certification: Red Hat Certified System Administrator (RHEL 6)
 - Certification: Certified Ethical HackerV9 ( ECC89630247512 )
+
 **********************************************************************************************************
 
 **EDUCATION :**
