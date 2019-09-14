@@ -9,9 +9,11 @@ Being a Security Enthusiast, I'm currently honing my skills for Application Secu
 
 Bugcrowd Profile : [bugcrowd.com/Infosec_Komal](https://bugcrowd.com/Infosec_Komal)
 
-I'm familiar with the concepts of Linux Security like PAM, setuid & setgid, ACLs, auditd, firewalld &  iptables, AIDE and have some hands-on experience in bash shell scripting. You can find some of my work [here](https://github.com/komal-armarkar/vulnerability-recon-bash). I have worked on OS like Linux, Debian, Windows.
+I'm familiar with the concepts of Linux Security like PAM, setuid & setgid, ACLs, auditd, firewalld &  iptables, AIDE and have some hands-on experience in bash shell scripting. You can find some of my work [here](https://github.com/komal-armarkar/vulnerability-recon-bash). 
 
-I have some experience working with tools like Burpsuite, Nmap, JIRA, WireShark, tcpdump, QaulysGuard Policy Compliance Tool. 
+I have worked on OS like Linux, Debian, Windows. I have some experience working with tools like Burpsuite, Nmap, JIRA, WireShark, tcpdump, QaulysGuard Tool. 
+
+I'm also aware of privary standard ISO/IEC 27701
 
 Also, I have delivered a presentation on [Command Injection](https://www.slideshare.net/KomalArmarkar/command-injection-komalarmarkar/1)  at [InfosecGirls](https://www.infosecgirls.in/) , a Infosec Chapter lead by Vandana Verma, [OWASPWIA](https://www.owasp.org/index.php/Women_In_AppSec) Lead India.
 
@@ -55,7 +57,8 @@ I am interested in learning various aspects of Application Security Testing, Mob
 
 - Certification: Red Hat Certified Engineer (RHEL 6)
 - Certification: Red Hat Certified System Administrator (RHEL 6)
-- Certification: Certified Ethical HackerV9 ( ECC89630247512 )
+- Certification: Certified Ethical Hacker ( ECC89630247512 )
+- Certification: QaulysGuard Certified Specialist
 
 ***
 
