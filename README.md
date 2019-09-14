@@ -9,7 +9,7 @@ Being a Security Enthusiast, I'm currently honing my skills for Application Secu
 
 Bugcrowd Profile : [bugcrowd.com/Infosec_Komal](https://bugcrowd.com/Infosec_Komal)
 
-I'm familiar with the concepts of Linux Security like PAM, setuid & setgid, ACLs, auditd, firewalld &  iptables, AIDE and have some hands-on experience in bash shell scripting. You can find some of my work here. I have worked on OS like Linux, Debian, Windows.
+I'm familiar with the concepts of Linux Security like PAM, setuid & setgid, ACLs, auditd, firewalld &  iptables, AIDE and have some hands-on experience in bash shell scripting. You can find some of my work [here](https://github.com/komal-armarkar/vulnerability-recon-bash). I have worked on OS like Linux, Debian, Windows.
 
 I have some experience working with tools like Burpsuite, Nmap, JIRA, WireShark, tcpdump, QaulysGuard Policy Compliance Tool. 
 
