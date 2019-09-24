@@ -66,4 +66,7 @@ I am interested in learning various aspects of Application Security Testing, Mob
 
 Bachelors Degree : Computer Technology, RashtraSant Tukadoji Maharaj Nagpur University, Nagpur, Maharashtra
 
+***
+**CONTACT INFO :**
 
+komal.armarkar@gmail.com | +91-9890247409
