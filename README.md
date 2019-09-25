@@ -13,7 +13,7 @@ I'm familiar with the concepts of Linux Security like PAM, setuid & setgid, ACLs
 
 I have worked on OS like Linux, Debian, Windows. I have some experience working with tools like Burpsuite, Nmap, JIRA, WireShark, tcpdump, QaulysGuard Tool. 
 
-I'm also aware of privary standard ISO/IEC 27701
+I'm also aware of privacy standard ISO/IEC 27701
 
 Also, I have delivered a presentation on [Command Injection](https://www.slideshare.net/KomalArmarkar/command-injection-komalarmarkar/1)  at [InfosecGirls](https://www.infosecgirls.in/) , a Infosec Chapter lead by Vandana Verma, [OWASPWIA](https://www.owasp.org/index.php/Women_In_AppSec) Lead India.
 
@@ -49,7 +49,7 @@ I am interested in learning various aspects of Application Security Testing, Mob
 - Monitoring, Managing and Troubleshooting the Network Infrastructure.
 - Remote Installation, Deployment, Reconfiguration of product on Linux platform, configuring, monitoring and testing of email Servers for spectrum of clients.
 - Ensuring maximum Network and Server uptime.
-- Interacted and provided Web Training to customers of company across India regarding Mithi Software       Email Product.
+- Interacted and provided Web Training to customers of company across India regarding Mithi Software  Email Product.
 
 ***
 
